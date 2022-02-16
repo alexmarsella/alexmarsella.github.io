@@ -85,9 +85,8 @@ author:
   bio              : "PhD Candidate in Economics at West Virginia University"
   location         : "Morgantown, West Virginia"
   employer         :
-  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YXL-p8oAAAAJ&hl=en"
-  email            :
+  email            : "acm0043@mix.wvu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +95,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :"https://www.linkedin.com/in/alexmarsellaecon/"
-  orcid            : 
+  linkedin         : "https://www.linkedin.com/in/alexmarsellaecon/"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
