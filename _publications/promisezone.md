@@ -2,9 +2,9 @@
 title: "Do Place-Based Crime Reduction Policies Work?: Evidence from the West Philadelphia Promise Zone"
 collection: publications
 permalink: /publication/promisezone
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+excerpt: 'This paper uses several causal inference methods to determine the effect of the Philadelphia Promise Zone on violent crime.'
+date: 2021-11-04
+venue: 'Available at SSRN'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3956747'
 citation: 'Marsella, Alexander. (2021). &quot;Do Place-Based Crime Reduction Policies Work?: Evidence from the West Philadelphia Promise Zone&quot; <i>SSRN</i>.'
 ---
