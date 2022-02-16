@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/insuringtransfers
 excerpt: 'In this paper, we study an insurance mechanism through which special interest groups are able to maintain wealth transfers after their funding is reduced through legislative means. We illustrate this by examining large-scale mandatory donations which major banks made to housing counseling organizations whose funding Congress reduces three years prior.'
 date: 2019-04-20
-venue: 'Available at SSRN - Major Revision at _Public Choice_ (In Progress)'
+venue: 'SSRN - Major Revision at _Public Choice_ (In Progress)'
 paperurl: 'https://dx.doi.org/10.2139/ssrn.3375405'
 citation: 'Cutsinger, Bryan and Marsella, Alexander and Zhou, Yang (2010). &quot;Insuring Legislative Wealth Transfers: Theory and Evidence.&quot; <i>Available at SSRN</i>. '
 ---
