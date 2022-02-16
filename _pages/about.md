@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Economics, passionate about data science and teaching. My research focus is in using applied microeconomics and causal inference methods to study urban policy. 
+I am a PhD candidate in the Department of Economics at West Virginia University. 
 
+My research focuses on using applied microeconomics and causal inference methods to study urban policy, with a particular focus on violent crime and drug use.
 
