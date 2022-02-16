@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Economics, West Chester University, 2018
+* M.A. in Economics, West Virginia University, 2021
+* Ph.D in Economics, West Virginia University, Expected 2023
 
 Work experience
 ======
