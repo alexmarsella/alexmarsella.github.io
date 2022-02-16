@@ -12,4 +12,4 @@ This paper studies the effect of the West Philadelphia Promise Zone Initiative o
 
 [Download paper here](http://alexmarsella.github.io/files/promisezone.pdf)
 
-Recommended citation: Marsella, Alexander. (2010). "Do Place-Based Crime Reduction Policies Work?: Evidence from the West Philadelphia Promise Zone." <i>SSRN/i>.
+Recommended citation:  Marsella, Alexander, Does Place-Based Crime Reduction Work?: Evidence from the West Philadelphia Promise Zone (November 4, 2021). Available at SSRN: https://ssrn.com/abstract=3956747 or http://dx.doi.org/10.2139/ssrn.3956747 
