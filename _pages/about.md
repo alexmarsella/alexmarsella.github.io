@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the Department of Economics at West Virginia University. 
+Welcome to my website! I am PhD candidate in the Department of Economics at West Virginia University. My research focus sits at the intersection of the applied microeconomic fields of Urban, Health, and Public Economics. Specifically, my dissertation focuses on recent institutional and policy-based developments in Philadelphia that have broad implications for cities across the United States. Prior to graduate school, I studied Economics and Math at West Chester University of Pennsylvania, from which I graduated in 2018. I will be on the job market in the upcoming 2022-2023 academic year.
 
-My research focuses on using applied microeconomics and causal inference methods to study urban policy, with a particular focus on violent crime and drug use.
+My job market paper employs several modern causal inference techniques to study the violent crime reducing effects of a previously unstudied phenomenon, the "West Philadelphia Promise Zone". 
 
