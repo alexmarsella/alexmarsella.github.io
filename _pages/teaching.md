@@ -14,7 +14,6 @@ author_profile: true
 - ECON200: Survey of Economics -- Fall 2020 (online, asynchronous)
 
 Evaluations:
-- [Summary](/files/Teaching_Effectiveness.pdf)
 - [All Evaluations](/files/Evals.pdf)
              
 Selected Student Comments:
