@@ -8,7 +8,7 @@ author_profile: true
 ## Peer-Reviewed Journal Articles
 - ["Insuring Legislative Wealth Transfers: Theory and Evidence"](https://dx.doi.org/10.2139/ssrn.3375405) (w. B. Cutsinger & Y. Zhou), Forthcoming at <i>Public Choice<i>.
 - ["Readership and citations as alternative measures of impact"](https://link.springer.com/article/10.1007/s10602-021-09333-x) (with A. Cardazzi & R. Congleton),  <i>Constitutional Political Economy<i> Vol. 33 (March 2022).
-- ["On the stability of US politics: post-sample forecasts and refinements of the Congleton-Shughart models"](https://link.springer.com/article/10.1007/s11127-019-00689-1) (with R. Congleton & Y. Kim) <i>Public Choice</i> Vol. 183 (April 2020).
+- ["On the stability of US politics: post-sample forecasts and refinements of the Congleton-Shughart models"](https://link.springer.com/article/10.1007/s11127-019-00689-1) (with R. Congleton & Y. Kim), <i>Public Choice</i> Vol. 183 (April 2020).
 
 
 ## Working Papers
