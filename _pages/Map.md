@@ -1,9 +1,11 @@
 ---
 title: "Building an interactive crime map with shiny in RStudio, an overly verbose tutorial"
+permalink: /blog/
 author: "Alex Marsella"
 output: html_document
 date: '2022-07-27'
 ---
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(eval = FALSE)
