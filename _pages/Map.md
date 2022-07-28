@@ -7,11 +7,6 @@ date: '2022-07-27'
 ---
 
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(eval = FALSE)
-```
-
-
 
 To begin, it's important to note that this tutorial assumes you are working with spatial data. In other words, somewhere in your data are columns for latitude and longitude OR a column named something like "geometry" (which I will show you how to convert to separate lat and long). 
 
