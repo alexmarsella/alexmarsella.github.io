@@ -13,7 +13,7 @@ author_profile: false
 
 # More advanced, browse at your own peril!
 
-# [How to make an interactive crime map using shiny in RStudio.](https://alexmarsella.github.io/R/shinymaptutorial/) 
-# [Replicating Robbins and Davenport (2021), but for Philadelphia.](https://alexmarsella.github.io/R/microsynth/) 
+## [How to make an interactive crime map using shiny in RStudio.](https://alexmarsella.github.io/R/shinymaptutorial/) 
+## [Replicating Robbins and Davenport (2021), but for Philadelphia.](https://alexmarsella.github.io/R/microsynth/) 
 
 
