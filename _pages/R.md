@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "R"
+title: "Tutorials and Guides in R"
 permalink: /R/
 author_profile: false
 ---
