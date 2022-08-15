@@ -12,7 +12,7 @@ author_profile: false
 * [Intermediate Data Tidying and Plotting](https://alexmarsella.github.io/R/phillyDA/) 
 
 
-## More advanced, browse at your own peril!
+## More advanced, browse at your own risk!
 
 * [How to make an interactive crime map using shiny in RStudio.](https://alexmarsella.github.io/R/shinymaptutorial/) 
 * [Replicating Robbins and Davenport (2021), but for Philadelphia.](https://alexmarsella.github.io/R/microsynth/) 
