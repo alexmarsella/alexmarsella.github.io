@@ -7,6 +7,7 @@ author_profile: false
 
 ## More useful for students in my Econ 482 class.
 
+* [Panel Data Regression and Fixed Effects](https://alexmarsella.github.io/R/panel_tutorial/)
 * [Two-way Fixed Effects DiD and Stargazer Tables](https://alexmarsella.github.io/R/felm_stargazer/) 
 * [Intermediate Data Tidying and Plotting](https://alexmarsella.github.io/R/phillyDA/) 
 
