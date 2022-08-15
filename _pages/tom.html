@@ -401,7 +401,9 @@ outcomes and guilty pleas.</p>
 <pre class="r"><code>data &lt;- read.csv(&quot;tom.csv&quot;, stringsAsFactors = F)</code></pre>
 <p>The only reason that file read in so seamlessly is because it’s
 located in “C:/Users/Alex/Dropbox/PROJECTS/Econ482”. If it were not
-located there, R would return an error.</p>
+located there, R would return an error. You, the reader, can acquire this file with the following code.</p> 
+ <pre class="r"><code>library(readr)
+ data &lt;- read_csv(&quot;https://raw.githubusercontent.com/alexmarsella/alexmarsella.github.io/master/assets/tom.csv&quot;, stringsAsFactors = F)</code></pre>
 <p>Let’s take a look at this dataset, using the <code>head()</code>
 command to view the first ten rows. I hide the output for the sake of
 this document, but you should try it yourself on your own computer to
