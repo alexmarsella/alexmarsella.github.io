@@ -9,6 +9,7 @@ author_profile: false
 
 * [Panel Data Regression and Fixed Effects](https://alexmarsella.github.io/R/panel_tutorial/)
 * [Two-way Fixed Effects DiD and Stargazer Tables](https://alexmarsella.github.io/R/felm_stargazer/) 
+* [Event Study (Dynamic DiD)](https://alexmarsella.github.io/R/eventstudy/)
 * [Intermediate Data Tidying and Plotting](https://alexmarsella.github.io/R/phillyDA/) 
 
 
