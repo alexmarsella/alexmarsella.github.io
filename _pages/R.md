@@ -7,6 +7,7 @@ author_profile: false
 
 ## More useful for students in my Econ 482 class.
 
+* [Intro to Markdown with Iris](https://alexmarsella.github.io/R/iris/)
 * [Panel Data Regression and Fixed Effects](https://alexmarsella.github.io/R/panel_tutorial/)
 * [Two-way Fixed Effects DiD and Stargazer Tables](https://alexmarsella.github.io/R/felm_stargazer/) 
 * [Event Study (Dynamic DiD)](https://alexmarsella.github.io/R/eventstudy/)
