@@ -391,6 +391,10 @@ clustered standard errors.</li>
 dataset with 3750 observations: 10 years of data for 375 census tracts.
 For each tract-year, it has various types of crime rates, population
 demographics, education levels, etc.</p>
+  <p>You, the reader, can grab the dataset using this code chunk.</p>
+<pre class="r"><code>library(curl)
+download.file(&quot;https://raw.githubusercontent.com/alexmarsella/alexmarsella.github.io/master/assets/aggrework.rds&quot;, &quot;aggrework.rds&quot;, method=&quot;curl&quot;)
+agg &lt;- readRDS(&quot;aggrework.rds&quot;)</code></pre>
 <pre class="r"><code># I am reading a file in from a separate working directory.
 agg &lt;- readRDS(&quot;C:/Users/Alex/Dropbox/PROJECTS/philly/aggrework.rds&quot;) </code></pre>
 <p>In 2014, 8 census tracts fell under a new initiative called the
