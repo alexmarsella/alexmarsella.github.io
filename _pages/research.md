@@ -12,5 +12,6 @@ author_profile: false
 
 
 ## Working Papers
-- ["Do Place-Based Crime Reduction Policies Work?: Evidence from the West Philadelphia Promise Zone"](https://dx.doi.org/10.2139/ssrn.3956747) (Job Market Paper)
-- ["Income Inequality and Party Alternation: State-Level Evidence from the United States](https://dx.doi.org/10.2139/ssrn.3870344) (w. P. Calcagno & Y. Zhou), under review.
+- ["Do Place-Based Crime Reduction Policies Work?: Evidence from the West Philadelphia Promise Zone"](https://dx.doi.org/10.2139/ssrn.3956747) (Job Market Paper), under review 
+- ["Income Inequality and Party Alternation: State-Level Evidence from the United States"](https://dx.doi.org/10.2139/ssrn.3870344) (w. P. Calcagno & Y. Zhou), R&R at <i>Contemporary Economic Policy.</i>
+- "The effect of monitoring and crowds on crime and law enforcement: A natural experiment from European football"(w. B. Humphreys & L. Perez), under review
