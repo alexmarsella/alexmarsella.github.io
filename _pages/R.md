@@ -5,7 +5,7 @@ permalink: /R/
 author_profile: false
 ---
 
-## More useful for students in my Econ 482 class.
+## For my Econ 482 students.
 
 * [Intro to Markdown with Iris](https://alexmarsella.github.io/R/iris/)
 * [Panel Data Regression and Fixed Effects](https://alexmarsella.github.io/R/panel_tutorial/)
