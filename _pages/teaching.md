@@ -34,4 +34,6 @@ provided us with a huge amount of feedback."
 
 - ECON201: Principles of Microeconomics -- Spring 2019, Fall 2019, Spring 2020 
 
+- ECON202: Principles of Macroeconomics -- Fall 2019
+
 
