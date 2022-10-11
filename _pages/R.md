@@ -13,7 +13,7 @@ author_profile: false
 * [Event Study (Dynamic DiD)](https://alexmarsella.github.io/R/eventstudy/)
 * [Intermediate Data Tidying and Plotting](https://alexmarsella.github.io/R/phillyDA/) 
 * [A Basic Propensity Score Matching Example for Diff-in-Diff](https://alexmarsella.github.io/R/psm_did/) 
-
+* [A Basic Synthetic Control](https://alexmarsella.github.io/R/synth/) 
 
 ## More advanced, browse at your own risk!
 
