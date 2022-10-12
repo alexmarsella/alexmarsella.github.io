@@ -19,7 +19,7 @@ author_profile: false
 - ECON200: Survey of Economics -- Fall 2020 (online, asynchronous)
   - [Evals w/ comparisons](/files/200.pdf)
 
-Evaluations:
+Evaluations (Instructor Summary Reports):
 - [All Evaluations w/ comments](/files/Evals.pdf)
              
 Selected Student Comments:
