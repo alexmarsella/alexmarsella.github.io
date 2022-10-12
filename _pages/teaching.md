@@ -14,7 +14,7 @@ author_profile: false
   - Evals w/ comparisons - [Fall 2021](/files/301_003.pdf); [Spring 2022](/files/301_001.pdf)
 
 - ECON201: Principles of Microeconomics -- Spring 2021, Two Sections
-  - Evals w/ comparisons - [8:30am](/files/201_004.pdf);[10:30am](/files/201_006.pdf)
+  - Evals w/ comparisons - [8:30am](/files/201_004.pdf); [10:30am](/files/201_006.pdf)
 
 - ECON200: Survey of Economics -- Fall 2020 (online, asynchronous)
   - [Evals w/ comparisons](/files/200.pdf)
