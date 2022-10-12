@@ -8,16 +8,19 @@ author_profile: false
 ## Instructor of Record
 
 - ECON482: Applied Economic Research -- Fall 2022 
+  - [Early semester feedback](/files/482_early.pdf)
 
 - ECON301: Intermediate Microeconomic Theory -- Fall 2021, Spring 2022
+  - Evals w/ comparisons - [Fall 2021](/files/301_003.pdf); [Spring 2022](/files/301_001.pdf)
 
 - ECON201: Principles of Microeconomics -- Spring 2021, Two Sections
   - Evals w/ comparisons - [8:30am](/files/201_004.pdf);[10:30am](/files/201_006.pdf)
 
 - ECON200: Survey of Economics -- Fall 2020 (online, asynchronous)
+  - [Evals w/ comparisons](/files/200.pdf)
 
 Evaluations:
-- [All Evaluations](/files/Evals.pdf)
+- [All Evaluations w/ comments](/files/Evals.pdf)
              
 Selected Student Comments:
 - "This was by far my favorite class and my favorite professor. He cared about the work he was teaching us and always
