@@ -5,6 +5,8 @@ permalink: /R/
 author_profile: false
 ---
 
+It should be noted that these tutorials were made primarily with my senior capstone students in mind. If you are an advanced user of R, you may find them to be less exhaustive than a more advanced tutorial. Feel free to contact me directly if you have any questions or spot any issues in my tutorials.
+
 ## For my Econ 482 students.
 
 * [Intro to Markdown with Iris](https://alexmarsella.github.io/R/iris/)
