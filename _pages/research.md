@@ -17,5 +17,5 @@ author_profile: false
 - "The effect of monitoring and crowds on crime and law enforcement: A natural experiment from European football" (w. B. Humphreys & L. Perez), under review at <i> Oxford Bulletin of Economics and Statistics</i>.
 
 ## Works in Progress
-- "Supervised Injection and NIMBY in Philadelphia: A Contingent Valuation Experiment" 
-- "Soda Taxes and Fecundability: Evidence from US Cities"
+- "Supervised Injection and NIMBY in Philadelphia: A Contingent Valuation Experiment" (Working Paper forthcoming by October 31st)
+- "Soda Taxes and Fecundability: Evidence from US Cities" 
