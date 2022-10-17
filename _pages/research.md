@@ -18,4 +18,8 @@ author_profile: false
 
 ## Works in Progress
 - "Supervised Injection and NIMBY in Philadelphia: A Contingent Valuation Experiment" (Working Paper forthcoming by October 31st)
+  - <details>
+<summary>Abstract</summary>
+Fentanyl overdose is the number one cause of death for Americans aged 18-45. Recently, an organization known as Safehouse attempted to open a ``Supervised-Injection Facility" in South Philadelphia. Here, intravenous drug-users would be able to use drugs under medical supervision and without legal repercussions within the walls of the facility. Upon progressing past legal hurdles and planning a relatively short-noticed opening, the organization faced immense backlash and ``not in my backyard'' (NIMBY) sentiment from the local community, ultimately leading to the cancellation of the site. This paper applies standard discrete-choice and contingent valuation survey techniques to this novel scenario in the city of Philadelphia. I find strong evidence of a NIMBY effect, where approximately one half of respondents who support the opening of an SIF relatively far away from them oppose or are unsure of its placement within a mile of their residence. I also find that a randomly assigned information treatment is effective in increasing respondents' openness to an SIF in their area. Additionally, I find that the perceived cost to residents of an SIF on their block is high: potentially thousands of dollars per month.
+</details>
 - "Soda Taxes and Fecundability: Evidence from US Cities" 
