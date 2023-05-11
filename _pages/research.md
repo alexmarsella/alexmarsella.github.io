@@ -18,6 +18,5 @@ author_profile: false
 
 ## Works in Progress
 - ["Supervised Injection and NIMBY in Philadelphia: A Contingent Valuation Experiment"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4445547)
-- 
 - "Soda Taxes and Fecundability: Evidence from US Cities" (Preliminary results forthcoming in November)
   - <details><summary>Abstract</summary> This paper provides the first causal analysis of whether Sugar-Sweetened Beverage (SSB) taxes inadvertently led to increased fecundability within the population. I perform a synthetic control analysis using county-level natality data. Preliminary results forthcoming.</details>
