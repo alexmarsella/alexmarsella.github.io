@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Alex Marsella"
   avatar           : "unnamed.jpg"
-  bio              : "PhD Candidate in Economics at West Virginia University"
-  location         : "Morgantown, WV"
+  bio              : "Visiting Assistant Professor of Economics and Data Analytics at Berry College"
+  location         : "Rome, GA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=YXL-p8oAAAAJ&hl=en"
-  email            : "acm0043@mix.wvu.edu"
+  email            : "amarsella@berry.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
