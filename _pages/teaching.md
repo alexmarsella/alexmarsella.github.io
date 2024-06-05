@@ -7,11 +7,23 @@ author_profile: false
 
 ## Instructor of Record
 
+### Berry College
+
+- DAT280: Intermediate Data Analytics -- Spring 2024
+  - [Eval w/ Comments](/files/DAT280_spring24.pdf)
+
+- BUS211: Business Statistics -- Fall 2023, Spring 2024 (x2)
+  - Evals w/ comments - [Fall 2023](/files/BUS211_fall23.pdf); [Spring 2024 A](/files/BUS211A_spring24.pdf); [Spring 2024 B](/files/BUS211B_spring24.pdf)
+
+- ECO110: Markets & Society -- Fall 2023, Two Sections
+  - Evals w/ comments - [Fall 2023 A](/files/ECO110A_fall23.pdf); [Fall 2023 B](files/ECO110B_fall23.pdf)
+
+### West Virginia University
 - ECON482: Applied Economic Research -- Fall 2022 
   - [Eval w/ Comments](/files/eval_482.pdf)
 
-- ECON301: Intermediate Microeconomic Theory -- Fall 2021, Spring 2022
-  - Evals w/ comparisons - [Fall 2021](/files/301_003.pdf); [Spring 2022](/files/301_001.pdf)
+- ECON301: Intermediate Microeconomic Theory -- Fall 2021, Spring 2022, Spring 2023
+  - Evals w/ comparisons - [Fall 2021](/files/301_003.pdf); [Spring 2022](/files/301_001.pdf); 
 
 - ECON201: Principles of Microeconomics -- Spring 2021, Two Sections
   - Evals w/ comparisons - [8:30am](/files/201_004.pdf); [10:30am](/files/201_006.pdf)
