@@ -31,8 +31,8 @@ author_profile: false
 - ECON200: Survey of Economics -- Fall 2020 (online, asynchronous)
   - [Evals w/ comparisons](/files/200.pdf)
 
-Evaluations (Instructor Summary Reports):
-- [All Evaluations w/ comments](/files/Evals.pdf)
+- Evaluations (Instructor Summary Reports):
+  - [All Evaluations w/ comments](/files/Evals.pdf)
              
 Selected Student Comments:
 - "This was by far my favorite class and my favorite professor. He cared about the work he was teaching us and always
