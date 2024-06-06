@@ -7,10 +7,11 @@ author_profile: false
 
 ## Intermediate Data Analytics (DAT 280) Course Material
 
-These are assignments I designed for the Intermediate Data Analytics course I teach at Berry College. Answer keys are not included here, since the person reading this could be my current student. However, if you would like an answer key, please e-mail me.
+These are tutorials and assignments I designed for the Intermediate Data Analytics course I teach at Berry College. Assignment answer keys are not included here, since the person reading this could be my current student. However, if you would like an answer key, please e-mail me.
 
 * [Intro to RMarkdown](/files/Intro.pdf/)
 * [Basic Data Exploration in RMarkdown](/files/Iris.pdf/)
+* [Application in Cleaning and Wrangling (Assignment)](/files/Application_cleaning_wrangling.pdf/)
 
 
 
