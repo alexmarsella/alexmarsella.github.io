@@ -9,8 +9,8 @@ author_profile: false
 
 These are assignments I designed for the Intermediate Data Analytics course I teach at Berry College. Answer keys are not included here, since the person reading this could be my current student. However, if you would like an answer key, please e-mail me.
 
-* [Intro to RMarkdown](https://alexmarsella.github.io/files/Intro.pdf/)
-* [Basic Data Exploration in RMarkdown](https://alexmarsella.github.io/files/Iris.pdf/)
+* [Intro to RMarkdown](/files/Intro.pdf/)
+* [Basic Data Exploration in RMarkdown](/files/Iris.pdf/)
 
 
 
