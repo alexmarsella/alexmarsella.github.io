@@ -8,9 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I am an Assistant Professor of Economics and Data Analytics at Berry College's Campbell School of Business. In May of 2023, I graduated with a PhD in Economics from the John Chambers College of Business and Economics at West Virginia University. My research focuses on policy changes in large cities, such as Philadelphia and New York, and how those policy changes affect a variety of outcomes, such as crime, property values, or other economic indicators. I have also published research in the field of public choice economics. 
+Welcome to my website! I am an Assistant Professor of Economics and Data Analytics in the Campbell School of Business at Berry College. I received my PhD in Economics from West Virginia University in 2023.
 
-While a graduate student at WVU, I taught a variety of courses including principles of microeconomics, intermediate microeconomics, applied economic research, and causal inference. At Berry, I teach courses in economics, business statistics, and data analytics. Currently, I am helping to build the relatively new Data Analytics major at Berry College. I have recently designed and taught our first ever Causal Inference course for upper-level data analytics and economics majors, along with its pre-requisite course, Intermediate Data Analytics.
+My research focuses on urban economics and applied public policy, with a particular interest in housing markets and the effects of local policy. I use causal inference methods to study how changes in housing regulation, land-use policy, short-term rental regulation, and other local policies affect housing affordability and economic activity in cities.
+
+Much of my recent work focuses on housing and urban regulation. In a paper published in the *Journal of Regional Science*, my coauthors and I study the effects of the Minneapolis 2040 Plan, which eliminated single-family-only zoning throughout the city, on house prices. In ongoing work currently under review at *Regional Science and Urban Economics*, I examine whether New York City's Local Law 18, which sharply restricted short-term rentals, affected long-term rents. My other research on cities has examined the effects of short-term rental restrictions on the hotel industry and place-based policies on violent crime.
+
+At Berry, I teach courses in economics, business statistics, data analytics, and causal inference. I have helped develop Berry's Data Analytics major and designed and taught Intermediate Data Analytics and Causal Inference. My teaching emphasizes the application of economic reasoning, statistical programming, and modern empirical methods to real-world questions.
+
 
 
 
