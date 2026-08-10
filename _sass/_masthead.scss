@@ -3,36 +3,78 @@
    ========================================================================== */
 
 .masthead {
-  position: relative;
-  border-bottom: 1px solid $border-color;
-  -webkit-animation: intro 0.3s both;
-          animation: intro 0.3s both;
-  -webkit-animation-delay: 0.15s;
-          animation-delay: 0.15s;
+  position: sticky;
+  top: 0;
   z-index: 20;
+  border-bottom: 1px solid $border-color;
+  background: white;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  transition: $global-transition;
 
-  &__inner-wrap {
-    @include container;
-    @include clearfix;
-    padding: 1em 1em 1em;
-    font-family: $sans-serif-narrow;
+  &.masthead-sticky {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+}
 
-    @include breakpoint($x-large) {
-      max-width: $x-large;
-    }
+.masthead__inner-wrap {
+  @include container;
+  @include clearfix;
+  padding: 1em 0;
+  max-width: 100%;
 
-    nav {
-      z-index: 10;
-    }
+  @include breakpoint($x-large) {
+    max-width: $x-large;
+  }
+}
 
-    a {
-      text-decoration: none;
-    }
+.site-logo {
+  @include breakpoint($large) {
+    @include span(2 of 12);
+  }
+
+  @include breakpoint($x-large) {
+    @include span(2 of 12);
+  }
+
+  img {
+    max-height: 2.5rem;
+  }
+}
+
+.site-title {
+  @include span(full);
+  margin: 0;
+  padding: 0.5rem 0;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: $type-size-3;
+  color: $dark-gray;
+  transition: color $global-transition;
+
+  @include breakpoint($large) {
+    @include span(full);
+    padding: 0.25rem 0;
+  }
+
+  &:hover {
+    color: $accent-color;
+  }
+}
+
+.site-subtitle {
+  display: block;
+  font-size: $type-size-7;
+  color: $gray;
+  margin-top: -0.25em;
+  font-weight: 400;
+
+  @include breakpoint($large) {
+    display: inline-block;
+    padding-left: 4.135%;
   }
 }
 
 .masthead__menu {
-
   ul {
     margin: 0;
     padding: 0;
@@ -49,5 +91,33 @@
   &--lg {
     padding-right: 2em;
     font-weight: 700;
+
+    a {
+      padding-right: 0;
+    }
+  }
+
+  a {
+    padding: 0.5em 1em;
+    padding-left: 0;
+    margin-bottom: 0.5em;
+    display: block;
+    font-size: $type-size-6;
+    line-height: 1.5;
+    text-decoration: none;
+    color: $masthead-link-color;
+    transition: color $global-transition;
+    font-weight: 600;
+
+    &:hover {
+      color: $masthead-link-color-hover;
+      background-color: transparent;
+    }
+
+    &.active {
+      color: $accent-color;
+      border-bottom: 3px solid $accent-color;
+      padding-bottom: 0.2em;
+    }
   }
 }
