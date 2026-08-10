@@ -44,27 +44,36 @@ $type-size-8                : 0.625em;  // ~10px
 
 
 /*
-   Colors
+   Colors - Modern Professional Palette
    ========================================================================== */
 
+/* primary colors */
+$primary-blue               : #2c3e50;
+$primary-blue-light         : #34495e;
+$accent-color               : #3498db;
+$accent-color-light         : #5dade2;
+$accent-color-darker        : #2980b9;
+
+/* neutral grays */
 $gray                       : #7a8288;
-$dark-gray                  : mix(#000, $gray, 40%);
-$darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
-$lighter-gray               : mix(#fff, $gray, 90%);
+$dark-gray                  : #2c3e50;
+$darker-gray                : #1a252f;
+$light-gray                 : #ecf0f1;
+$lighter-gray               : #f8f9fa;
+$white                      : #ffffff;
 
 $body-color                 : #fff;
 $background-color           : #fff;
-$code-background-color      : #fafafa;
-$code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+$code-background-color      : #f4f6f8;
+$code-background-color-dark : #ecf0f1;
+$text-color                 : #2c3e50;
+$border-color               : #e0e6ed;
 
-$primary-color              : #7a8288;
-$success-color              : #62c462;
-$warning-color              : #f89406;
-$danger-color               : #ee5f5b;
-$info-color                 : #52adc8;
+/* semantic colors */
+$success-color              : #27ae60;
+$warning-color              : #f39c12;
+$danger-color               : #e74c3c;
+$info-color                 : #3498db;
 
 /* brands */
 $behance-color              : #1769FF;
@@ -90,11 +99,11 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $info-color;
-$link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+$link-color                 : $accent-color;
+$link-color-hover           : $accent-color-darker;
+$link-color-visited         : mix(#000, $accent-color, 25%);
+$masthead-link-color        : $text-color;
+$masthead-link-color-hover  : $accent-color;
 
 
 /*
@@ -146,8 +155,9 @@ $susy: (
    Other
    ========================================================================== */
 
-$border-radius              : 4px;
-$box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
+$border-radius              : 8px;
+$box-shadow                 : 0 2px 8px rgba(0, 0, 0, 0.1);
+$box-shadow-hover           : 0 8px 16px rgba(0, 0, 0, 0.15);
 $navicon-width              : 28px;
 $navicon-height             : 4px;
-$global-transition          : all 0.2s ease-in-out;
+$global-transition          : all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
