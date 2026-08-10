@@ -36,7 +36,10 @@
 
 .page__title {
   margin-top: 0;
-  line-height: 1;
+  line-height: 1.2;
+  color: $dark-gray;
+  font-weight: 700;
+  letter-spacing: -0.5px;
 
   & + .page__meta {
     margin-top: -0.5em;
@@ -46,17 +49,31 @@
 .page__lead {
   font-family: $global-font-family;
   font-size: $type-size-4;
+  color: $text-color;
+  font-weight: 500;
+  line-height: 1.6;
 }
 
 .page__content {
 
   h2 {
     padding-bottom: 0.5em;
-    border-bottom: 1px solid $border-color;
+    border-bottom: 3px solid $accent-color;
+    color: $dark-gray;
+    font-weight: 700;
+    margin-top: 1.5em;
+  }
+
+  h3 {
+    color: $primary-blue-light;
+    font-weight: 700;
+    margin-top: 1.2em;
   }
 
   p, li, dl {
     font-size: 1em;
+    line-height: 1.8;
+    color: $text-color;
   }
 
   /* paragraph indents */
@@ -73,13 +90,17 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
+    color: $link-color;
+    border-bottom: 2px solid transparent;
+    transition: $global-transition;
 
     &:hover {
-      text-decoration: underline;
+      color: $link-color-hover;
+      border-bottom-color: $accent-color;
 
       img {
-        box-shadow: 0 0 10px rgba(#000, 0.25);
+        box-shadow: $box-shadow-hover;
       }
     }
   }
@@ -88,6 +109,7 @@
     margin-top: 1em;
     font-family: $sans-serif;
     font-weight: bold;
+    color: $dark-gray;
   }
 
   dd {
@@ -105,6 +127,14 @@
     margin-top: -1.5em;
     padding-left: 1.25rem;
   }
+
+  blockquote {
+    border-left: 4px solid $accent-color;
+    padding-left: 1.5em;
+    font-style: italic;
+    color: mix(#000, $text-color, 20%);
+    margin: 1.5em 0;
+  }
 }
 
 .page__hero {
@@ -117,13 +147,15 @@
   &--overlay {
     position: relative;
     margin-bottom: 2em;
-    padding: 3em 0;
+    padding: 4em 0;
     @include clearfix;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    background: linear-gradient(135deg, $primary-blue 0%, $primary-blue-light 100%);
     animation: intro 0.3s both;
     animation-delay: 0.25s;
+    border-radius: $border-radius;
 
     a {
       color: #fff;
@@ -143,7 +175,7 @@
     .page__lead,
     .btn {
       color: #fff;
-      text-shadow: 1px 1px 4px rgba(#000, 0.5);
+      text-shadow: 1px 1px 4px rgba(#000, 0.3);
     }
 
     .page__lead {
@@ -164,6 +196,7 @@
   width: 100%;
   height: auto;
   -ms-interpolation-mode: bicubic;
+  border-radius: $border-radius;
 }
 
 .page__hero-caption {
@@ -175,10 +208,10 @@
   color: #fff;
   font-family: $caption-font-family;
   font-size: $type-size-7;
-  background: #000;
+  background: rgba(#000, 0.7);
   text-align: right;
   z-index: 5;
-  opacity: 0.5;
+  opacity: 0.8;
   border-radius: $border-radius 0 $border-radius 0;
 
   @include breakpoint($large) {
@@ -218,6 +251,8 @@
   margin-bottom: 10px;
   font-size: $type-size-6;
   text-transform: uppercase;
+  color: $dark-gray;
+  font-weight: 700;
 }
 
 
@@ -227,7 +262,7 @@
 
 .page__meta {
   margin-top: 2em;
-  color: mix(#fff, $gray, 25%);
+  color: mix(#000, $gray, 40%);
   font-family: $sans-serif;
   font-size: $type-size-6;
 
@@ -236,7 +271,12 @@
   }
 
   a {
-    color: inherit;
+    color: $link-color;
+    text-decoration: none;
+
+    &:hover {
+      color: $link-color-hover;
+    }
   }
 }
 
@@ -244,6 +284,8 @@
   margin-bottom: 10px;
   font-size: $type-size-6;
   text-transform: uppercase;
+  font-weight: 700;
+  color: $dark-gray;
 }
 
 
@@ -265,14 +307,19 @@
   display: inline-block;
   margin-right: 5px;
   margin-bottom: 8px;
-  padding: 5px 10px;
+  padding: 6px 12px;
   text-decoration: none;
-  border: 1px solid $light-gray;
+  border: 2px solid $accent-color;
   border-radius: $border-radius;
+  color: $accent-color;
+  transition: $global-transition;
+  font-weight: 600;
+  font-size: $type-size-7;
 
   &:hover {
     text-decoration: none;
-    color: $link-color-hover;
+    background-color: $accent-color;
+    color: white;
   }
 }
 
@@ -298,6 +345,7 @@
   padding: 1em;
   background: $lighter-gray;
   transition: $global-transition;
+  border-radius: $border-radius;
 
   &.disabled {
     input,
@@ -398,4 +446,41 @@
   margin-bottom: 10px;
   font-size: $type-size-6;
   text-transform: uppercase;
+}
+
+/* ==========================================================================
+   Card Components
+   ========================================================================== */
+
+.card {
+  background: white;
+  border-radius: $border-radius;
+  box-shadow: $box-shadow;
+  padding: 2em;
+  transition: $global-transition;
+  margin-bottom: 2em;
+  border-top: 4px solid $accent-color;
+
+  &:hover {
+    box-shadow: $box-shadow-hover;
+    transform: translateY(-4px);
+  }
+
+  h3 {
+    margin-top: 0;
+    color: $dark-gray;
+  }
+}
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2em;
+  margin: 2em 0;
+}
+
+.card-icon {
+  font-size: 2.5em;
+  color: $accent-color;
+  margin-bottom: 0.5em;
 }
