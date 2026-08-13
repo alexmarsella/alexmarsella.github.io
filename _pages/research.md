@@ -33,5 +33,7 @@ author_profile: false
 * **"Did New York City's Airbnb Ban Lower Rents? Evidence from Local Law 18"**. Under review.
 
 * **"Do Troops Deter Tourists? Evidence from Washington, D.C."** (w. E.F. Stephenson). Under review.
+  
+* **"Violence Reduction and Housing Investment: Evidence from Baltimore’s Group Violence Reduction Strategy"** Under review.
 
 
