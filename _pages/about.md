@@ -6,9 +6,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-header:
-  overlay_color: "#2c3e50"
-  overlay_filter: "linear-gradient(135deg, rgba(44, 62, 80, 0.8), rgba(52, 73, 94, 0.8))"
 ---
 
 ## About Me
@@ -17,7 +14,7 @@ I am an **Assistant Professor of Economics and Data Analytics** in the Campbell 
 
 Much of my work uses quasi-experimental methods to study how local policies affect housing markets, businesses, and communities. Recent projects examine zoning reform, short-term rental regulation, neighborhood investment, and urban crime.
 
-My research on the **Minneapolis 2040 Plan and house prices** was recently published in the *Journal of Regional Science*.
+My research on the **[Minneapolis 2040 Plan and house prices](https://onlinelibrary.wiley.com/doi/10.1111/jors.70082)** was recently published in the *Journal of Regional Science*.
 
 ## Research
 
