@@ -3,7 +3,12 @@
    ========================================================================== */
 
 .page__footer {
-  @include full();
+  @include clearfix;
+  float: left;
+  margin-left: 0;
+  margin-right: 0;
+  width: 100%;
+  clear: both;
   margin-top: 3em;
   color: lighten($text-color, 18%);
   -webkit-animation: fade-in 0.3s both;
@@ -13,7 +18,6 @@
 }
 
 footer {
-  @include reset-list;
   @include container;
   @include clearfix;
   margin-top: 2em;
