@@ -22,18 +22,16 @@ author_profile: false
 
 * **["On the Stability of US Politics: Post-Sample Forecasts and Refinements of the Congleton-Shughart Models"](https://link.springer.com/article/10.1007/s11127-019-00689-1)** (w. R. Congleton & Y. Kim), *Public Choice* (2020).
 
-## Revisions in Progress
+## Working Papers
 
 * **"Immigration Enforcement and Healthcare Utilization: A Quasi-Experimental Analysis of Office-Based and Outpatient Visits Among U.S. Hispanic Adults, 2009–2020"** (w. S. Charlu). Major Revision at *Contemporary Economic Policy*.
 
-* **"The Effect of the October 1st Mass Shooting on Tourism Demand in Las Vegas"** (w. A. Benoualid & E.F. Stephenson). Major Revision at *Tourism Economics*.
-
-## Working Papers
+* **"The Effect of the October 1st Mass Shooting on Tourism Demand in Las Vegas"** (w. A. Benoualid & E.F. Stephenson). Major Revision Under Review at *Tourism Economics*.
 
 * **"Did New York City's Airbnb Ban Lower Rents? Evidence from Local Law 18"**. Under review.
 
 * **"Do Troops Deter Tourists? Evidence from Washington, D.C."** (w. E.F. Stephenson). Under review.
   
-* **"Violence Reduction and Housing Investment: Evidence from Baltimore’s Group Violence Reduction Strategy"** Under review.
+* **["Violence Reduction and Housing Investment: Evidence from Baltimore’s Group Violence Reduction Strategy"](https://dx.doi.org/10.2139/ssrn.7303601)** Under review.
 
 
