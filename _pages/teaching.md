@@ -5,8 +5,6 @@ permalink: /teaching/
 author_profile: false
 ---
 
-## Instructor of Record
-
 ### Berry College
 
 - DAT401 / ECO425: Causal Inference
