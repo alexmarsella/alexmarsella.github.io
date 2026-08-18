@@ -14,6 +14,8 @@
   @include breakpoint($x-large) {
     max-width: $x-large;
   }
+}
+
 .page {
   @include breakpoint($large) {
     @include span(10 of 12 last);
@@ -30,7 +32,6 @@
       @include full();
     }
   }
-}
 }
 
 .page__title {
