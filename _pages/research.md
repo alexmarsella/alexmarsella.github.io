@@ -3,6 +3,7 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: false
+classes: wide
 ---
 ## Peer-Reviewed Journal Articles
 
