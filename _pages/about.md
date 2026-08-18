@@ -11,84 +11,47 @@ header:
   overlay_filter: "linear-gradient(135deg, rgba(44, 62, 80, 0.8), rgba(52, 73, 94, 0.8))"
 ---
 
-## Welcome 👋
+## About Me
 
-I'm an **Assistant Professor of Economics and Data Analytics** in the Campbell School of Business at Berry College. I specialize in urban economics, applied public policy, and causal inference methods—particularly applied to housing markets and local policy effects.
+I am an **Assistant Professor of Economics and Data Analytics** in the Campbell School of Business at Berry College. My research is in **urban economics and applied public policy**, with a particular focus on housing markets, local regulation, and the effects of place-based policies.
 
----
+Much of my work uses quasi-experimental methods to study how local policies affect housing markets, businesses, and communities. Recent projects examine zoning reform, short-term rental regulation, neighborhood investment, and urban crime.
 
-## 🎯 Research Focus
+My research on the **Minneapolis 2040 Plan and house prices** was recently published in the *Journal of Regional Science*.
 
-My research centers on **urban economics and applied public policy**, with particular emphasis on:
+## Research
 
-- **Housing Markets** - Understanding regulation effects and market dynamics
-- **Causal Inference** - Applying advanced econometric methods to real-world policy questions  
-- **Urban Regulation** - Analyzing how local policies reshape urban development
+My current research interests include:
 
-Recent work includes a study published in the *Journal of Regional Science* examining the effects of Minneapolis 2040 Plan on housing markets and urban development patterns.
+- Housing markets and land-use regulation
+- Short-term rental regulation
+- Urban and local public policy
+- Crime and neighborhood development
+- Causal inference and applied econometrics
 
----
+You can find papers, working papers, and ongoing projects on my **[Research page](/research)**.
 
-## 🏫 Teaching & Education
+## Teaching
 
-At Berry College, I teach courses in:
-- Economics and Business Statistics
-- Data Analytics
-- Causal Inference Methods
+At Berry College, I teach courses in economics, statistics, data analytics, and causal inference. I am also the curriculum lead for Berry's Data Analytics program.
 
-I've been instrumental in developing Berry's **Data Analytics major** and designed the curriculum for intermediate data analytics courses. I received my **PhD in Economics from West Virginia University**.
+I received my PhD in Economics from West Virginia University.
 
----
+See my **[Teaching page](/teaching)** for additional information.
 
-## 💼 Expertise Areas
+## Links
 
-<div class="card-grid">
+- **[Research & Publications](/research)**
+- **[Curriculum Vitae](/cv)**
+- **[Google Scholar](https://scholar.google.com/citations?user=YXL-p8oAAAAJ&hl=en)**
+- **[LinkedIn](https://www.linkedin.com/in/alexmarsellaecon)**
+- **[Twitter](https://twitter.com/EconMarsella)**
 
-<div class="card">
-  <div class="card-icon">📊</div>
-  <h3>Econometrics & Causal Inference</h3>
-  <p>Advanced statistical methods for policy evaluation and impact assessment</p>
-</div>
+## Contact
 
-<div class="card">
-  <div class="card-icon">🏘️</div>
-  <h3>Urban Economics</h3>
-  <p>Housing policy, zoning regulations, and urban development dynamics</p>
-</div>
+**Alex Marsella**  
+Assistant Professor of Economics and Data Analytics  
+Campbell School of Business, Berry College  
+Rome, Georgia  
+[amarsella@berry.edu](mailto:amarsella@berry.edu)
 
-<div class="card">
-  <div class="card-icon">📈</div>
-  <h3>Data Analytics</h3>
-  <p>Transforming data into actionable insights for policy and business</p>
-</div>
-
-<div class="card">
-  <div class="card-icon">🔬</div>
-  <h3>Public Policy Analysis</h3>
-  <p>Rigorous evaluation of policy impacts and economic implications</p>
-</div>
-
-</div>
-
----
-
-## 📚 Quick Links
-
-- **[Research & Publications](/research)** - Explore my academic work
-- **[Teaching](/teaching)** - Course information and materials
-- **[Google Scholar Profile](https://scholar.google.com/citations?user=YXL-p8oAAAAJ&hl=en)** - Complete publication list
-- **[LinkedIn](https://www.linkedin.com/in/alexmarsellaecon)** - Professional network
-- **[Twitter](https://twitter.com/EconMarsella)** - Latest updates
-
----
-
-## 📧 Contact
-
-**Office:** Campbell School of Business, Berry College  
-**Location:** Rome, GA  
-**Email:** amarsella@berry.edu  
-**Position:** Assistant Professor of Economics and Data Analytics
-
----
-
-*Interested in research collaboration, speaking opportunities, or have questions about my work? Feel free to reach out!*
