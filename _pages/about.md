@@ -14,8 +14,6 @@ My work uses quasi-experimental methods to study how local policies affect housi
 
 My research on the **[Minneapolis 2040 Plan and house prices](https://onlinelibrary.wiley.com/doi/10.1111/jors.70082)** was recently published in the *Journal of Regional Science*.
 
-**Research interests:** Housing markets and land-use regulation; short-term rental regulation; urban and local public policy; crime and neighborhood development; causal inference and applied econometrics.
-
 At Berry College, I teach economics, statistics, data analytics, and causal inference, and I serve as curriculum lead for the Data Analytics program. I received my PhD in Economics from West Virginia University.
 
 **[Research & Publications](/research)** ·
@@ -24,5 +22,7 @@ At Berry College, I teach economics, statistics, data analytics, and causal infe
 **[Google Scholar](https://scholar.google.com/citations?user=YXL-p8oAAAAJ&hl=en)** ·
 **[LinkedIn](https://www.linkedin.com/in/alexmarsellaecon)** ·
 **[Twitter](https://twitter.com/EconMarsella)**
+
+**Research interests:** Housing markets and land-use regulation; short-term rental regulation; urban and local public policy; crime and neighborhood development; causal inference and applied econometrics.
 
 **Contact:** [amarsella@berry.edu](mailto:amarsella@berry.edu)
