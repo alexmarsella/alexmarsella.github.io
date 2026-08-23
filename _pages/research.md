@@ -41,7 +41,7 @@ classes: wide
 **The Effect of the October 1st Mass Shooting on Tourism Demand in Las Vegas**  
 *with A. Benoualid & E.F. Stephenson* · Major Revision Under Review at **Tourism Economics**
 
-**Did New York City's Airbnb Ban Lower Rents? Evidence from Local Law 18**  
+**[Did New York City's Airbnb Ban Lower Rents? Evidence from Local Law 18](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7341298)**  
 Under review
 
 **Do Troops Deter Tourists? Evidence from Washington, D.C.**  
