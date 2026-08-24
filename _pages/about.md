@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Alex Marsella"
+title: "About Me"
 excerpt: "Assistant Professor of Economics and Data Analytics at Berry College"
 author_profile: true
 redirect_from: 
