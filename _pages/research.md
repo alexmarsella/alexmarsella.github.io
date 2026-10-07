@@ -8,7 +8,7 @@ classes: wide
 
 ## Peer-Reviewed Journal Articles
 
-**The Effect of the October 1st Mass Shooting on Tourism Demand in Las Vegas**  
+**Mass Shootings and Hotel-Market Outcomes: Evidence from Las Vegas**  
 *with A. Benoualid & E.F. Stephenson* · Forthcoming at **Tourism Economics**
 
 **[Effects of the Minneapolis 2040 Plan on House Prices](https://doi.org/10.1111/jors.70082)**  
