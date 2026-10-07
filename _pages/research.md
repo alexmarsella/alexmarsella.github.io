@@ -8,6 +8,9 @@ classes: wide
 
 ## Peer-Reviewed Journal Articles
 
+**The Effect of the October 1st Mass Shooting on Tourism Demand in Las Vegas**  
+*with A. Benoualid & E.F. Stephenson* · Forthcoming at **Tourism Economics**
+
 **[Effects of the Minneapolis 2040 Plan on House Prices](https://doi.org/10.1111/jors.70082)**  
 *with V. Melo & Y. Wang* · **Journal of Regional Science** (2026)
 
@@ -37,9 +40,6 @@ classes: wide
 
 **Immigration Enforcement and Healthcare Utilization: A Quasi-Experimental Analysis of Office-Based and Outpatient Visits Among U.S. Hispanic Adults, 2009–2020**  
 *with S. Charlu* · Major Revision at **Contemporary Economic Policy**
-
-**The Effect of the October 1st Mass Shooting on Tourism Demand in Las Vegas**  
-*with A. Benoualid & E.F. Stephenson* · Major Revision Under Review at **Tourism Economics**
 
 **[Did New York City's Airbnb Ban Lower Rents? Evidence from Local Law 18](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7341298)**  
 Under review
