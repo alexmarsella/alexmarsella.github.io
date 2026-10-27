@@ -8,8 +8,8 @@ classes: wide
 
 ## Peer-Reviewed Journal Articles
 
-**Mass Shootings and Hotel-Market Outcomes: Evidence from Las Vegas**  
-*with A. Benoualid & E.F. Stephenson* · Forthcoming at **Tourism Economics**
+**[Mass Shootings and Hotel-Market Outcomes: Evidence from Las Vegas](https://doi.org/10.1177/13548166261499399)**  
+*with A. Benoualid & E.F. Stephenson* · **Tourism Economics**
 
 **[Effects of the Minneapolis 2040 Plan on House Prices](https://doi.org/10.1111/jors.70082)**  
 *with V. Melo & Y. Wang* · **Journal of Regional Science** (2026)
@@ -39,13 +39,16 @@ classes: wide
 ## Working Papers
 
 **Immigration Enforcement and Healthcare Utilization: A Quasi-Experimental Analysis of Office-Based and Outpatient Visits Among U.S. Hispanic Adults, 2009–2020**  
-*with S. Charlu* · Major Revision at **Contemporary Economic Policy**
+*with S. Charlu* · Major Revision under review at **Contemporary Economic Policy**
 
 **[Did New York City's Airbnb Ban Lower Rents? Evidence from Local Law 18](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7341298)**  
 Under review
 
+**[Zoning Reform and the Geography of Housing Production: Evidence from Minneapolis 2040]**
+Under review
+
 **Do Troops Deter Tourists? Evidence from Washington, D.C.**  
-*with E.F. Stephenson* · Under review
+*with E.F. Stephenson* 
 
 **[Violence Reduction and Housing Investment: Evidence from Baltimore’s Group Violence Reduction Strategy](https://dx.doi.org/10.2139/ssrn.7303601)**  
-Under review
+
