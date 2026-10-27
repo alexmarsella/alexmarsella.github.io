@@ -44,7 +44,7 @@ classes: wide
 **[Did New York City's Airbnb Ban Lower Rents? Evidence from Local Law 18](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7341298)**  
 Under review
 
-**[Zoning Reform and the Geography of Housing Production: Evidence from Minneapolis 2040]**
+**Zoning Reform and the Geography of Housing Production: Evidence from Minneapolis 2040**
 Under review
 
 **Do Troops Deter Tourists? Evidence from Washington, D.C.**  
